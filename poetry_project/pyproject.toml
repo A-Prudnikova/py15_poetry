@@ -7,7 +7,7 @@ authors = ["A-Prudnikova <a.prudnikova@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 pytest = "^7.1.2"
-selene = "^1.0.2"
+selene = "2.0.0b5"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.14.5"
